@@ -28,6 +28,8 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-##live Demo ![alt link]https://bchat-ff275.web.app/
+
+[Live demo](https://fireship-demos.web.app/)
+
 ##this is a simple chat room app like super chat useing react hooks,firebase etc 
 ![alt text](https://github.com/badushaebrahim/Hello/blob/master/Capture.PNG)
